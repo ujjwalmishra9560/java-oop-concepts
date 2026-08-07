@@ -6,15 +6,12 @@ class demo{
     {
         System.out.println("zero parameterized constructor by programer");
     }
-    
-    
     public demo(int a, int b)
 {
     this.a=a;
     this.b=b;
 
  }
-
  public demo(int a)
     {
         System.out.println("one paramerterized constructor by programer");
